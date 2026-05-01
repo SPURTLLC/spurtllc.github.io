@@ -781,14 +781,14 @@ figcaption {
 
 /* Chicago Chocolaterie detailed hero image */
 .hero-image.home-tech {
-  background-image: url('../images/chocolate_testing2.png');
+  background-image: url('../images/luxury_chocolate_store\ 1.png');
   background-position: 50%;
   height: 100vh;
 }
 
 /* record world detailed hero image */
 .hero-image.home-tech9 {
-  background-image: url('../images/testing.png');
+  background-image: url('../images/record_dude.png');
   background-position: 50%;
   height: -100vh;
 }
