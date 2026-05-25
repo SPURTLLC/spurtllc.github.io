@@ -843,14 +843,14 @@ figcaption {
 }
 
 .hero-image.image-9 {
-  background-image: url('../images/qr_scan_3.jpg');
+  background-image: url('../images/qr_scan_3\ 1.webp');
   background-size: cover;
   
 }
 
 /* Getting Started hero image  */
 .hero-image.image-10 {
-  background-image: url('../images/getting_started.png');
+  background-image: url('../images/getting_started\ 1.webp');
   height: 75vh;
   background-size: cover;
   
